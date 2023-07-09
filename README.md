@@ -1,9 +1,9 @@
-<h1 align="center">Hi there!👋</h1>
+<h1 align="center">Hi there! 👋</h1>
 <!--
 **ybotf/ybotf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 - 🔭 I’m currently working on a website portfolio(?)<br>
-- 🌱 I’m currently studying at The Univevrsity of Melbourne<br>
+- 🌱 Currently studying at The Univevrsity of Melbourne<br>
 - ⚡ Fun fact I play badminton <br>
 <br>
 
