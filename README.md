@@ -3,7 +3,7 @@
 **ybotf/ybotf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 <ul>
-  <li>🔭 I’m currently working on a website portfolio(?)</li>
+  <li>🔭 I’m currently working on a website portfolio</li>
   <li>🌱 Currently studying at The Univevrsity of Melbourne</li>
   <li>⚡ Fun fact I play badminton</li>
 </ul>
