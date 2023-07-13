@@ -6,8 +6,8 @@
 
 
 <ul>
-  <li>🔭 I’m currently working on a website portfolio</li>
-  <li>🌱 Currently studying at The Univevrsity of Melbourne</li>
+  <li>🔭 I’m currently studying at The Univevrsity of Melbourne</li>
+  <li>🌱 Pursuing to be a software engineer post grad</li>
   <li>⚡ Fun fact I play badminton</li>
 </ul>
 
