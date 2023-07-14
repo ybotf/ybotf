@@ -1,11 +1,13 @@
 <h1 align="center">Hi there! 👋</h1>
 
+<!--
+**ybotf/ybotf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
 ## About Me:
 - 🔭 I'm currently studying at The University of Melbourne
 - 🌱 Pursuing a career as a software engineer
-- ⚡ Fun fact: I like badminton
-
+- ⚡ Fun fact: I enjoy playing badminton
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ybotf&theme=tokyonight&hide_border=true" />
@@ -24,5 +26,3 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
-
-<!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
