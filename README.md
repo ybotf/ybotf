@@ -7,7 +7,7 @@
 ## About Me:
 - 🔭 I'm currently studying at The University of Melbourne
 - 🌱 Pursuing a career as a software engineer
-- ⚡ Fun fact: I enjoy playing badminton
+- ⚡ Fun fact: I like playing badminton :)
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ybotf&theme=tokyonight&hide_border=true" />
